@@ -1,86 +1,16 @@
-body, html {
-  height: 100%;
-}
-
-
-.firstPage {
-  position: relative;
-  min-height: 100vh;
+.showcase {
+  background-image: url(3025.jpg);
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
-  background-image: url(img/3025.jpg);
+  background-position: center;
+  height: 400px;
 }
 
-.navbar {
-  padding: 20px 0;
-}
-
-.navbar-brand {
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 2em;
-}
-
-.nav-item {
-  font-weight: 700;
-  text-transform: uppercase;
-}
-
-.main {
-  padding: 150px 0 200px;
-  color: #FFF;
-}
-
-.container {
-  position: sticky;
+.overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 400px;
+  display: flex;
+  flex-direction: column;
   align-items: center;
-}
-
-.firstPage h2 {
-  margin:0;
-  padding: 0;
-  font-size: 2.8em;
-  font-weight: 900;
-  text-transform: uppercase;
-  text-align: right;
-}
-
-.firstPage p {
-  margin: 1em 0 0;
-  padding: 0;
-  font-size: 1.2em;
-  line-height: 1.5em;
-  text-align: right;
-}
-
-.btnD1 {
-  display: inline-block;
-  margin: 2em 0 0;
-  padding: 10px 20px;
-  background: #ce541f;
-  color: #FFF;
-  text-transform: uppercase;
-  border: none;
-  font-weight: 700;
-}
-
-.btnD1:hover {
-  background: #351b02;
-  color: #FFF;
-  text-decoration: none;
-}
-
-.secondPage {
-  position: relative;
-  min-height: 100vh;
-  background: rgb(11,0,14);
-  background: linear-gradient(90deg, rgba(11,0,14,1) 0%, rgba(52,8,33,1) 19%, rgba(86,18,41,1) 39%, rgba(84,19,41,1) 60%, rgba(67,13,37,1) 80%, rgba(40,4,30,1) 100%);  
-}
-
-
-.secondPage p {
-  color: #FFF;
-  font-weight: 400;
-  padding: 5em 0;
+  justify-content: center;
 }
