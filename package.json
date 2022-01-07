@@ -1,4 +1,5 @@
 {
+  "homepage": "http://renren-017.github.io/Online-Articles-Lib",
   "name": "aiulibrary",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +18,8 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,6 +50,7 @@
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.5.1",
+    "gh-pages": "^3.2.3",
     "style-loader": "^3.3.1"
   }
 }
