@@ -3,7 +3,7 @@
 # Online Articles Lib React App
 Deployed at https://renren-017.github.io/Online-Articles-Lib/ 
 
-Feedbacks at https://drive.google.com/file/d/10D536c5LMvJOtdCiiMzehfMB8n3K8LWB/view?usp=sharing
+Feedbacks at https://drive.google.com/drive/folders/1Ny_zSeBoj5cRDwfeLyUR8zsL7azInCiO?usp=sharing
 
 ## About The Project
 Through this web application you can find articles on specific topics of interest.
