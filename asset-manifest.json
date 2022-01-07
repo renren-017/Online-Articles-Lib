@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Online-Articles-Lib/static/css/main.24e254be.css",
+    "main.js": "/Online-Articles-Lib/static/js/main.5cabb287.js",
+    "static/js/787.637afc2a.chunk.js": "/Online-Articles-Lib/static/js/787.637afc2a.chunk.js",
+    "static/media/3025.jpg": "/Online-Articles-Lib/static/media/3025.f6abbe73f75310db27a0.jpg",
+    "index.html": "/Online-Articles-Lib/index.html",
+    "main.24e254be.css.map": "/Online-Articles-Lib/static/css/main.24e254be.css.map",
+    "main.5cabb287.js.map": "/Online-Articles-Lib/static/js/main.5cabb287.js.map",
+    "787.637afc2a.chunk.js.map": "/Online-Articles-Lib/static/js/787.637afc2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e254be.css",
+    "static/js/main.5cabb287.js"
+  ]
+}
