@@ -31,3 +31,5 @@ The link to the original Web Resourse is also provided.
 ## Note for the mentor
 
 All post-deadline changes are made to design the ReadMe.md and fix the errors that were made due to me remaking the project for 3rd time in a row and not creating a new repo to ease my life
+
+<p align="right">(<a href="#top">back to top</a>)</p>
